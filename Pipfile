@@ -9,6 +9,7 @@ black = "*"
 openai = "==0.28.1"
 google-search-results = "*"
 tweepy = "*"
+flask = "*"
 
 [dev-packages]
 
